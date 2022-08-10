@@ -3,6 +3,14 @@
 
 Redis component for NestJs.
 
+<div align="center">
+  <a href="https://www.npmjs.com/package/@vikadata/nestjs-redis">
+    <img src="https://img.shields.io/npm/v/@vikadata/nestjs-redis.svg" alt="npm version">
+  </a>
+  <a href="https://www.npmjs.com/org/vikadata">
+    <img src="https://img.shields.io/npm/dw/@vikadata/nestjs-redis.svg" alt="npm downloads" />
+  </a>
+</div>
 
 ### Installation
 
