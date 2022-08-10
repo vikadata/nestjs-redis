@@ -1,5 +1,5 @@
 {
-  "name": "nestjs-redis",
+  "name": "@vikadata/nestjs-redis",
   "version": "1.3.3",
   "description": "a NestJS ioRedis module",
   "author": "skunight",
